@@ -1,0 +1,6 @@
+{
+  "niceName": "Poisson py",
+  "predictionBotId": "poisson_gefalko_py",
+  "gepickHandlerVersion" : 2,
+  "description": "This model based on poisson distribution. It use last 3 matches history. Based on python."
+}
